@@ -4,7 +4,7 @@ Gather data from Lahman's baseball database's 'People' table and list of players
 
 Using SQL Server to prepare the data
 
-Using Python(Spyder) to perform poisson regression, for the data we can actually perform linear regression as well. But chose poisson for training and diversity
+Using Python(Spyder) to perform poisson regression, for the data linear regression is actually better. But chose poisson for self-training and diversity
 
 
 Result:
