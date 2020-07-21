@@ -22,4 +22,4 @@ With one unit increase of weight, the mean response of the time between their de
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-One sentence conclusion: it really didn't matter much for the weight of players on the time between their debut and Tommy John surgery date, but we can slightly imply negatively correlated. 
+One sentence conclusion: it really didn't matter much for the weight of players on the time between their debut and Tommy John surgery date, but we can slightly imply they are negatively correlated. 
