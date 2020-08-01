@@ -1,4 +1,8 @@
+Introduction:
+
 Try to find out how MLB players' weight affect the time between their debut and Tommy John surgery date
+
+Methods:
 
 Gather data from Lahman's baseball database's 'People' table and list of players who underwent Tommy John surgery from Wikipedia
 
@@ -20,6 +24,4 @@ Estimated mean of y at average weight:  1720.251
 With one unit increase of weight, the mean response of the time between their debut and Tommy John surgery date will multiply by 0.9941637034397474, which imply 0.6% decrease.
 
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-One sentence conclusion: it really didn't matter much for the weight of players on the time between their debut and Tommy John surgery date, but we can slightly imply they are negatively correlated. 
+Conclusion: it really didn't matter much for the weight of players on the time between their debut and Tommy John surgery date, but we can slightly imply they are negatively correlated. 
